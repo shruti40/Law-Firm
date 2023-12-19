@@ -1,0 +1,28 @@
+.wrapper {
+    text-align: center;
+    margin-top: 7%;
+    background-color: #282c34;
+    margin: 10% 15%;
+    padding: 5%;
+}
+
+.textfield {
+    background: white!important;
+}
+
+.button {
+    background-color: var(--color-primary);
+    color: var(--color-black);
+    padding: 9px 30px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+}
+
+.subscribe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    gap: 30px;
+}

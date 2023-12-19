@@ -1,0 +1,32 @@
+.box {
+    width: 250px;
+    height: 100%;
+    border-radius: 14px;
+    padding: 20px;
+    display: flex;
+
+    img{
+        margin-right: 10px;
+    }
+}
+
+.desc {
+    opacity: 30%;
+    margin-top: 5%;
+}
+
+.rate {
+    margin-bottom:5%;
+    margin-top:5%;
+}
+
+.button{
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: var(--color-primary);
+    font-size: 10px;
+    font-weight: bold;
+    padding: 6px 8px;
+    margin-top:5%;
+}

@@ -1,0 +1,13 @@
+.wrapper {
+    text-align: center;
+}
+
+.items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    gap: 30px;
+    margin: 5% 15%;
+}
+

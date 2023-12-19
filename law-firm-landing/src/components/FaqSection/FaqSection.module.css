@@ -1,0 +1,22 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    /* align-items: center;
+    text-align: left;  */
+    gap: 30px;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+
+.left {
+    width: 40%;
+}
+
+.right {
+    width: 72%;
+}
+
+.answer {
+    display :none;
+    opacity: 30%;
+}
